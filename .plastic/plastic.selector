@@ -1,0 +1,4 @@
+repository "SmigLinguini@NMED3380Project1@cloud"
+  path "/"
+    br "/main"
+    co "/main"

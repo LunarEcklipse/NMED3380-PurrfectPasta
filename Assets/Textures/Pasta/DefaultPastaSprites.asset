@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae73423fe8d08ce418e7ec9f6f7db7f0, type: 3}
+  m_Name: DefaultPastaSprites
+  m_EditorClassIdentifier: 
+  blankSprite: {fileID: 8995154407686431259, guid: 13dd828c2f44e214f94bc26c306e051c, type: 3}
+  plateSprite: {fileID: -8938819534478884857, guid: 618746afe9a1a8b4997d6ffdc21ff480, type: 3}
+  spaghettiSprite: {fileID: -5291439106181375341, guid: 16c1168941c50ce4dbf5e935a53d3722, type: 3}
+  macaroniSprite: {fileID: 8537880547660736701, guid: a798e19ca82000747b553c766cc21e19, type: 3}
+  ravioliSprite: {fileID: 7770231933400813993, guid: 1459a02b76e4fc04a9896c67ffb743ff, type: 3}
+  tomatoSprite: {fileID: 8436172894711672838, guid: c85af34607c820b488482dd476ce4a0d, type: 3}
+  alfredoSprite: {fileID: -8349058269310621681, guid: 51f3cd24b84a397408f1415987643035, type: 3}
+  pestoSprite: {fileID: 5738909550857155239, guid: 6bb202a31728ec444a26c0ba9f95b082, type: 3}
+  fishSprite: {fileID: 8234687726571078299, guid: ffcd11d003602ec408fc3521df81f9ae, type: 3}
+  birdSprite: {fileID: 7441386328921167096, guid: dc52127c32378844e8e0c6001b43b203, type: 3}
+  ratSprite: {fileID: 6972680018300910088, guid: 38f69fd5b49e3df4585a8ecb29bca22d, type: 3}
